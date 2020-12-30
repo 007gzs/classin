@@ -1,8 +1,8 @@
 ##########################
 ClassIn Sdk for Python
 ##########################
-.. image:: https://travis-ci.org/007gzs/classin.svg?branch=master
-       :target: https://travis-ci.org/007gzs/classin
+.. image:: https://travis-ci.com/007gzs/classin.svg?branch=master
+       :target: https://travis-ci.com/007gzs/classin
 .. image:: https://img.shields.io/pypi/v/classin.svg
        :target: https://pypi.org/project/classin
 
