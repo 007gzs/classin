@@ -19,19 +19,19 @@ import sys
 
 sys.path.insert(0, os.path.abspath('..'))
 
-import baijiayun  # NOQA
+import classin  # NOQA
 
 
 # -- Project information -----------------------------------------------------
 
-project = 'baijiayun'
+project = 'classin'
 copyright = '2020, 007gzs'
 author = '007gzs'
 
 # The short X.Y version
-version = baijiayun.__version__
+version = classin.__version__
 # The full version, including alpha/beta/rc tags
-release = baijiayun.__version__
+release = classin.__version__
 
 
 # -- General configuration ---------------------------------------------------
@@ -118,7 +118,7 @@ html_static_path = ['_static']
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'baijiayun-doc'
+htmlhelp_basename = 'classin-doc'
 
 
 # -- Options for LaTeX output ------------------------------------------------
@@ -145,7 +145,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'baijiayun.tex', 'baijiayun Documentation',
+    (master_doc, 'classin.tex', 'classin Documentation',
      '007gzs', 'manual'),
 ]
 
@@ -155,7 +155,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'baijiayun', 'baijiayun Documentation',
+    (master_doc, 'classin', 'classin Documentation',
      [author], 1)
 ]
 
@@ -166,8 +166,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'baijiayun', 'baijiayun Documentation',
-     author, 'baijiayun', 'One line description of project.',
+    (master_doc, 'classin', 'classin Documentation',
+     author, 'classin', 'One line description of project.',
      'Miscellaneous'),
 ]
 
